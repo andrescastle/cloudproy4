@@ -1,5 +1,7 @@
 h1. !http://railsapps.github.io/images/rails-36x36.jpg(Rails Application for Devise with Mongoid)! Rails App for Devise with Mongoid
 
+Taken from https://github.com/RailsApps/rails3-mongoid-devise for Cloud Computing class.
+
 Rails 3.2 example application shows how to use Devise with Mongoid.
 
 * "Devise":http://github.com/plataformatec/devise gives you ready-made authentication and user management.
